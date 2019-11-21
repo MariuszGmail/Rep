@@ -21,7 +21,7 @@ mongoose
     } )
     .then( () => {
         console.log( 'working...' );
-        console.log( 'MongoDB connected...' )
+        console.log( 'MongoDB connected...' );
     } )
     .catch( err => {
         console.log( 'not working' );
