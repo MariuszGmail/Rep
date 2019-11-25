@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://marian:db123@mern-cluster-xrjzd.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
